@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/typelevel/skunk/commit/1045d3b2317ed21d7554c92676cc77edb3d1cd18",
       "git:hexsha": "1045d3b2317ed21d7554c92676cc77edb3d1cd18",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/typelevel/skunk/commit/f1405ecf81c1f3ac3e1524a002b9c631cf0c58c6",
