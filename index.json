@@ -1,0 +1,11 @@
+{
+  "org": "typelevel",
+  "repo": "skunk",
+  "versions": [
+    {
+      "commit": "1045d3b2317ed21d7554c92676cc77edb3d1cd18",
+      "tag": "",
+      "parsed_at": "2026-11-10T01:01:13.252254+00:00"
+    }
+  ]
+}
